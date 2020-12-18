@@ -1,4 +1,4 @@
-<a href="#" align="center"><img width="70%" height="auto" src="https://user-images.githubusercontent.com/42129177/102617394-1d795700-4107-11eb-961f-fbd41b4f3fba.png" height="175px"/></a><br><br>
+<a href="#" align="center"><img width="70%" height="auto" style="display: block; margin: 0 auto" src="https://user-images.githubusercontent.com/42129177/102617394-1d795700-4107-11eb-961f-fbd41b4f3fba.png" height="175px"/></a><br><br>
 
 <h3 align="center">Olá, sou o <a href="https://freshidea.com/jonah/">Matheus Bertoldo!</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3><br>
 
