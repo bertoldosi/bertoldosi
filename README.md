@@ -1,4 +1,4 @@
-[banner]
+![bg][banner]
 
 ## Encontre-me
 
