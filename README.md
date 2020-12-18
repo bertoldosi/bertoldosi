@@ -1,4 +1,4 @@
-[![bg][banner]][website]
+[banner]
 
 ## Encontre-me
 
