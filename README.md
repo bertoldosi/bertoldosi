@@ -24,8 +24,8 @@
             <td><a href="#"><img alt="JavaScript" title="JavaScript" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
             </td>
-            <td><a href="#"><img alt="TS" title="TS" height="28px"
-                        src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" /></a>
+            <td><a href="#"><img alt="NextJS" title="NextJS" height="28px"
+                        src="https://res.cloudinary.com/practicaldev/image/fetch/s--kpVkTsRw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r7kj8y4dfyd1aw989edi.png" /></a>
             <td><a href="#"><img alt="REACT" title="REACT" height="28px"
                         src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" /></a>
             <td><a href="#"><img alt="HTML5" title="HTML5" height="28px"
@@ -42,7 +42,7 @@
             </td>
             </td>
             <td><a href="#"><img alt="Django" title="DJANGO" height="28px"
-                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE3E-aFhgiuGFzhMcY7Gs9VL8XFbl_AJ7jCA&usqp=CAU" /></a>
+                        src="http://landing.bigpicturemedical.com/assets/medkit/jest-logo.png" /></a>
             </td>
             <td><a href="#"><img alt="CYPRESS" title="CYPRESS" height="28px"
                         src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/217/landscape/cypress.png" /></a></td>
