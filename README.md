@@ -10,7 +10,7 @@
 
 ## 📖 Sobre
 
-    Bacharel em sistemas de informação com foco nas tecnologias de front-end, como Javascript, ReactJS, NextJS, CSS, HTML para o desenvolvimento de interfaces webs.
+Bacharel em sistemas de informação com foco nas tecnologias de front-end, como Javascript, ReactJS, NextJS, CSS, HTML para o desenvolvimento de interfaces webs.
 
 <br>
 
