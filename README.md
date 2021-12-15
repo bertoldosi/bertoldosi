@@ -10,9 +10,7 @@
 
 ## 📖 Sobre
 
-- 💻 Sou um desenvolvedor frontend
-- 🎓 Sou bacharel em Sistemas de Informação (me formando em Junho de 2021)
-- 🌐 Você pode ver alguns dos meus projetos no [meu portfolio](https://bertoldosi.github.io/portifolio-oficial-ts/#/)
+    Bacharel em sistemas de informação com foco nas tecnologias de front-end, como Javascript, ReactJS, NextJS, CSS, HTML para o desenvolvimento de interfaces webs.
 
 <br>
 
