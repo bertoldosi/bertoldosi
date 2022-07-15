@@ -40,7 +40,7 @@ Bacharel em sistemas de informação com foco nas tecnologias de front-end, como
             </td>
             </td>
             <td><a href="#"><img alt="Django" title="DJANGO" height="28px"
-                        src="http://landing.bigpicturemedical.com/assets/medkit/jest-logo.png" /></a>
+                        src="https://www.pngkit.com/png/full/70-702065_django-python-logo-apress-the-definitive-guide-to.png" /></a>
             </td>
             <td><a href="#"><img alt="CYPRESS" title="CYPRESS" height="28px"
                         src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/217/landscape/cypress.png" /></a></td>
