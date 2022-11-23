@@ -10,17 +10,19 @@
 
 ## 📖 Sobre
 
-Me chamo Matheus, tenho 26 anos, sou natural de Boca do Acre, um pequeno município do estado do Amazonas, moro atualmente no Paraná, no município de Cascavel. Desde do início, aprendi a lutar e conquistar meu espaço sem precisar tirá-lo de alguém, sou de família muito humilde, minha mãe há vida toda foi diarista e meu pai sempre trabalhou no serviço pesado e com eles tive a melhor educação, apesar de todas as nossas dificuldades, sempre lutamos para ter nosso sustento e superar todos os obstáculos com muito suor e trabalho. Meu primeiro emprego com carteira assinada foi de auxiliar de depósito e com muita perseverança e estudo, hoje sou bacharel em Sistemas de Informação e apaixonado pela área. Atualmente atuo como Engenheiro de Software Jr, focado em tecnologias frontend.
+Frontend developer com bacharel em Sistemas de informação e com mais de 5 anos de estudo em desenvolvimento de softwares. Focado no ecossistema javascript para o desenvolvimento de aplicações performáticas e escaláveis, com ênfase em construir interfaces interativas e reativas. Experiência em implementar e manter testes utilizando as melhores ferramentas do ecossistema javascript.
 
- 🚀 Conhecimentos em:
 
-- HTML, CSS e Javascript há mais de 4 anos;
+🛸 Conhecimentos em:
+
+- HTML, CSS e Javascript há mais de 5 anos;
 - ReactJS há mais de 3 anos;
 - NextJS há mais de 2 anos;
-- Jest, React Testing Library e Cypress há 1 ano
-- Git e GitHub há mais de 4 anos;
+- Jest, React Testing Library e Cypress há 2 ano
+- Git e GitHub há mais de 5 anos;
 
- 🛸 Já estudei e implementei:
+
+🚀 Já estudei e implementei:
 
 - BFF (Backend para Frontend);
 - API de contexto
@@ -32,11 +34,12 @@ Me chamo Matheus, tenho 26 anos, sou natural de Boca do Acre, um pequeno municí
 - Ant Design
 - ReactStrp
 - Formik
-- Less / Sass
+- Less/Sass
+- Styled-components
 - Python
 - Django
 
 👨🏻‍💻 Atualmente estou:
 
 - Estudando inglês
-- Aprofundando cada vez mais nas tecnologias, afim de especializar em Front-end.
+- Aprofundando cada vez mais nas tecnologias, afim de especializar em Frontend.
