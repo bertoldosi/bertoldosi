@@ -56,7 +56,7 @@ Já estudei ou implementei:
 
 <br>
 
-## 📊 GitHub:
+## 📊 GitHub
 
   ![](https://github-readme-stats.vercel.app/api?username=bertoldosi&theme=react&hide_border=true&include_all_commits=false&count_private=true)<br/>
   ![](https://github-readme-streak-stats.herokuapp.com/?user=bertoldosi&theme=react&hide_border=true)<br/>
