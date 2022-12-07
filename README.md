@@ -9,13 +9,11 @@
 
 <br><br>
 
----
 
 ## 📖 About Me
 
 Frontend developer com bacharel em Sistemas de informação e com mais de 5 anos de estudo em desenvolvimento de softwares. Focado no ecossistema javascript para o desenvolvimento de aplicações performáticas e escaláveis, com ênfase em construir interfaces interativas e reativas. Experiência em implementar e manter testes utilizando as melhores ferramentas do ecossistema javascript.
 
----
 
 ## 🚀 Tech Stack
 
@@ -61,7 +59,6 @@ Frontend developer com bacharel em Sistemas de informação e com mais de 5 anos
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 
----
 
 ## 📊 GitHub Stats:
 
@@ -72,11 +69,5 @@ Frontend developer com bacharel em Sistemas de informação e com mais de 5 anos
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 😂 Random Dev Meme
-
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
 
 [![](https://visitcount.itsvg.in/api?id=bertoldosi&icon=0&color=0)](https://visitcount.itsvg.in)
