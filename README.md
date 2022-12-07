@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://user-images.githubusercontent.com/42129177/203649330-92ad0fcc-9941-478e-beea-b3b2d1b361e5.png" height="175px"/></a><br><br><br>
+<a href="#"><img width="100%" height="auto" src="https://user-images.githubusercontent.com/42129177/206069004-2c7ae11e-1e5d-4104-8251-87140e3e0bad.png" height="175px"/></a><br><br><br>
 
 <h3 align="center">Olá, sou o <a href="https://bertoldosi.github.io/portifolio-oficial-ts/#/">Matheus Bertoldo
 !</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
